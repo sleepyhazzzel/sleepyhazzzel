@@ -1,4 +1,4 @@
-## 🍄 Short intro
+## 🍄 Short Intro
 Hi there, this is Hazel! 👋<br>
 I was a graphic & industrial designer, and later on I switched to front-end development and design (UX & UI).
 * 📍  Living in Taipei, Taiwan 🇹🇼
@@ -7,7 +7,7 @@ I was a graphic & industrial designer, and later on I switched to front-end deve
 * 😽  Cat Lover
 
 
-## 📌 Building projects with:
+## 📌 Building Projects with:
 <p align="left" style="display: flex; align-items: center;">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40" alt="HTML5" />
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40" alt="CSS3" />
