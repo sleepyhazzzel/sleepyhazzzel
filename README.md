@@ -1,8 +1,8 @@
 ## 🍄 Short Intro
 Hi there, this is Hazel! 👋<br>
-I was a graphic & industrial designer, and later on I switched to front-end development and design (UX & UI).
-* 📍  Living in Taipei, Taiwan 🇹🇼
-* 🏫  Graduated from Shih Chien University, Department of Industrial Design
+I was a graphic & industrial designer, and later on switched to front-end development and design (UX & UI).
+* 📍  Taipei, Taiwan 🇹🇼
+* 🏫  Shih Chien University, Department of Industrial Design
 * 🩵  Traveling, Free-diving, Hiking, The Legend of Zelda 🗡️🏹🛡️
 * 😽  Cat Lover
 
