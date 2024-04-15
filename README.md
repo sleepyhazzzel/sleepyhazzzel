@@ -1,6 +1,9 @@
 ## 🍄 Short Intro
 Hi there, this is Hazel! 👋<br>
-I was a graphic & industrial designer, and later on switched to front-end development and design (UX & UI).
+I'm seeking a job in front-end development and design (UX & UI).<br>
+By combining my previous design expertise with my current programming skills,<br>
+I can strike a balance between aesthetics and functionality.
+
 * 📍  Taipei, Taiwan 🇹🇼
 * 🏫  Shih Chien University, Department of Industrial Design
 * 🩵  Traveling, Free-diving, Hiking, The Legend of Zelda 🗡️🏹🛡️
