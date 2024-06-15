@@ -1,14 +1,15 @@
 ## 🍄 Short Intro
 Hi there, this is Hazel! 👋<br>
-I'm seeking a job in front-end development and design (UX & UI).<br>
-By combining my previous design expertise with my current programming skills,<br>
-I can strike a balance between aesthetics and functionality.
+A front-end engineer focused on Vue.<br>
+Drawing on my previous design knowledge and my current programming skills,<br>
+I can smoothly combine visual appeal and functionality, achieving a perfect balance.<br>
+<!-- I'm seeking a job in front-end development and design (UX & UI).<br> -->
 
 * 📍  Taipei, Taiwan 🇹🇼
 * 🏫  Shih Chien University, Department of Industrial Design
 * 🩵  Traveling, Free-diving, Hiking, The Legend of Zelda 🗡️🏹🛡️
 * 😽  Cat Lover
-
+<br><br>
 
 ## 📌 Building Projects with:
 <p align="left" style="display: flex; align-items: center;">
