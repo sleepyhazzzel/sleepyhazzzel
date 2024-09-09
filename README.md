@@ -22,8 +22,8 @@ I'm seeking a job in front-end development and design (UX & UI).<br> -->
   <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vuejs" width="35" height="35"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="Nuxtjs" width="40" height="40"/>
-  <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg" alt="Vuetify" width="45" height="45" />
+<!--   <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="Nuxtjs" width="40" height="40"/> -->
+<!--   <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg" alt="Vuetify" width="45" height="45" /> -->
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="35" height="35" />
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" width="40" height="40" />
