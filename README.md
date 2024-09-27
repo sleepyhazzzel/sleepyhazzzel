@@ -6,9 +6,9 @@ I can smoothly combine visual appeal and functionality, achieving a perfect bala
 I'm seeking a job in front-end development and design (UX & UI).<br> -->
 
 * 📍  Taipei, Taiwan 🇹🇼
-* 🏫  B.A. in Industrial Design
-* 🩵  Traveling, Free-diving, Hiking, The Legend of Zelda 🗡️🏹🛡️
-* 😽  Cat Lover
+* B.A. in Industrial Design
+* Traveling, Free-diving, Hiking, The Legend of Zelda 🗡️🏹🛡️
+* Cat Lover
 <br><br>
 
 ## 📌 Building Projects with:
