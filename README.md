@@ -26,7 +26,7 @@ I'm seeking a job in front-end development and design (UX & UI).<br> -->
 <!--   <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg" alt="Vuetify" width="45" height="45" /> -->
   <a href="https://nodejs.org/en" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="35" height="35" title="Node.js" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="40" height="40" title="MongoDB" /></a>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" width="40" height="40" title="Photoshop" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/246px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator" width="40" height="40" title="illustrator" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="35" height="40" title="Figma" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" width="40" height="40" title="Photoshop" style="pointer-events: none;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/246px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator" width="40" height="40" title="illustrator" style="pointer-events: none;" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="35" height="40" title="Figma" style="pointer-events: none;" />
 </div>
