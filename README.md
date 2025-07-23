@@ -5,10 +5,11 @@ Drawing on my previous design knowledge and my current programming skills,<br>
 I can smoothly combine visual appeal and functionality, achieving a perfect balance.<br>
 I'm seeking a job in front-end development and design (UX & UI).<br> -->
 
-* 📍  Taipei, Taiwan 🇹🇼
+* Front-end Developer
 * B.A. in Industrial Design
-* Traveling, Free-diving, Hiking, The Legend of Zelda 🗡️🏹🛡️
-* Cat Lover
+* 📍  Taipei, Taiwan 🇹🇼
+* Snowboarding, Free-diving, Hiking
+* Cat Lover, Zelda 🗡️🏹🛡️
 <br><br>
 
 ## 📌 Building Projects with:
