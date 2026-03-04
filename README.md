@@ -1,15 +1,10 @@
 ## 🍄 Short Intro
-<!-- Hi there, this is Hazel! 👋<br>
-A front-end engineer focused on Vue.<br>
-Drawing on my previous design knowledge and my current programming skills,<br>
-I can smoothly combine visual appeal and functionality, achieving a perfect balance.<br>
-I'm seeking a job in front-end development and design (UX & UI).<br> -->
 
 * Front-end Developer
 * B.A. in Industrial Design
-* 📍  Taipei, Taiwan 🇹🇼
+* 📍  Taipei, Taiwan  🇹🇼
 * Snowboarding, Free-diving, Hiking
-* Cat Lover, Zelda 🗡️🏹🛡️
+* Cat Lover, Sweets Hunter
 <br><br>
 
 ## 📌 Building Projects with:
